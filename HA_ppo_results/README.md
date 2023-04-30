@@ -1,5 +1,5 @@
 ![These are the results of HA-PPO planning projects](/HA_ppo_results/curriculum_learning_with_hybrid_A_star.jpg "curriculum learning with forward hybrid A star")
-![These are the results of HA-PPO planning projects](/HA_ppo_results/result_obstacle_avoidance_1.gif "trained agent generate subgoal for planning")
+![These are the results of HA-PPO planning projects](/HA_ppo_results/result_obstacle_avoidance.gif "trained agent generate subgoal for planning")
 ![These are the results of HA-PPO planning projects](/HA_ppo_results/result_obstacle_avoidance_2.gif "trained agent generate subgoal for planning")
 ![These are the results of HA-PPO planning projects](/HA_ppo_results/actual_planning_obstacle_avoidance_1.jpg  "use subgoal for path planning")
 ![These are the results of HA-PPO planning projects](/HA_ppo_results/actual_planning_obstacle_avoidance_2.jpg  "use subgoal for path planning")
