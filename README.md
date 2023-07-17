@@ -1,2 +1,2 @@
 # wangzejin
-Personal CV
+Personal resume
